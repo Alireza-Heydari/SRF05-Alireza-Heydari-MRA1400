@@ -12,9 +12,9 @@
 ## Run Locally
 Clone the project
 `git clone https://github.com/Alireza-Heydari/SRF05-Alireza-Heydari-MRA1400`
-* 1.Open the project in Arduino IDE
-* 2.Plug your Arduino Uno
-* 3.Upload the program
+1. Open the project in Arduino IDE
+2. Plug your Arduino Uno
+3. Upload the program
 ## About the author
 This program was written by __Alireza Heydari__. You can contact me at:
 [Email](Alirheybari@gmail.com)
